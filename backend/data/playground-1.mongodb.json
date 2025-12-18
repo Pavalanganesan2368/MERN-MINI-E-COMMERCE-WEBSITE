@@ -1,0 +1,132 @@
+[
+  {
+    "name": "OPPO F21",
+    "price": 245.67,
+    "description": "OPPO F21 is a powerful device with a sleek design and fast performance.",
+    "rating": 4.5,
+    "images": [
+      { "image": "../public/images/products/1.jpg" },
+      { "image": "../public/images/products/2.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Amazon",
+    "stock": 5
+  },
+  {
+    "name": "Samsung Galaxy S21",
+    "price": 799.99,
+    "description": "Samsung Galaxy S21 features a high-end camera and smooth display.",
+    "rating": 4.7,
+    "images": [
+      { "image": "../public/images/products/3.jpg" },
+      { "image": "../public/images/products/4.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Flipkart",
+    "stock": 12
+  },
+  {
+    "name": "Apple iPhone 13",
+    "price": 999.99,
+    "description": "iPhone 13 delivers powerful performance with the A15 Bionic chip.",
+    "rating": 4.8,
+    "images": [
+      { "image": "../public/images/products/5.jpg" },
+      { "image": "../public/images/products/6.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Apple Store",
+    "stock": 8
+  },
+  {
+    "name": "Xiaomi Redmi Note 12",
+    "price": 189.49,
+    "description": "Redmi Note 12 offers excellent value with long battery life.",
+    "rating": 4.3,
+    "images": [
+      { "image": "../public/images/products/7.jpg" },
+      { "image": "../public/images/products/8.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Mi Store",
+    "stock": 20
+  },
+  {
+    "name": "OnePlus Nord CE 3",
+    "price": 329.99,
+    "description": "OnePlus Nord CE 3 provides fast charging and a smooth UI experience.",
+    "rating": 4.4,
+    "images": [
+      { "image": "../public/images/products/9.jpg" },
+      { "image": "../public/images/products/10.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "OnePlus",
+    "stock": 15
+  },
+  {
+    "name": "Realme GT Neo 3",
+    "price": 399.99,
+    "description": "Realme GT Neo 3 comes with a powerful processor and gaming performance.",
+    "rating": 4.6,
+    "images": [
+      { "image": "../public/images/products/11.jpg" },
+      { "image": "../public/images/products/12.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Realme Store",
+    "stock": 10
+  },
+  {
+    "name": "Vivo V25 Pro",
+    "price": 459.99,
+    "description": "Vivo V25 Pro offers premium design with excellent camera quality.",
+    "rating": 4.2,
+    "images": [
+      { "image": "../public/images/products/13.jpg" },
+      { "image": "../public/images/products/14.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Vivo Official",
+    "stock": 7
+  },
+  {
+    "name": "Google Pixel 7",
+    "price": 699.99,
+    "description": "Google Pixel 7 delivers the best Android experience and AI camera.",
+    "rating": 4.7,
+    "images": [
+      { "image": "../public/images/products/15.jpg" },
+      { "image": "../public/images/products/16.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Google Store",
+    "stock": 9
+  },
+  {
+    "name": "Motorola Edge 40",
+    "price": 289.99,
+    "description": "Motorola Edge 40 features a clean Android UI and solid performance.",
+    "rating": 4.1,
+    "images": [
+      { "image": "../public/images/products/17.jpg" },
+      { "image": "../public/images/products/18.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Motorola",
+    "stock": 14
+  },
+  {
+    "name": "Nokia G60",
+    "price": 219.99,
+    "description": "Nokia G60 is a durable phone with reliable performance and battery.",
+    "rating": 4.0,
+    "images": [
+      { "image": "../public/images/products/19.jpg" },
+      { "image": "../public/images/products/20.jpg" }
+    ],
+    "category": "Mobile Phones",
+    "seller": "Nokia Store",
+    "stock": 18
+  }
+]

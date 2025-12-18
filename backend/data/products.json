@@ -1,0 +1,15 @@
+[
+     {
+          "name" : "OPPO F21",
+          "price" : 245.67,
+          "description" : "OPPO F21 is a powerful devices with a any devices",
+          "rating" : 4.5,
+          "images" : [
+               { "image" : "../public/images/products/1.jpg" }, 
+               { "image" : "../public/images/products/2.jpg" }
+          ],
+          "category" : "Mobile Phones",
+          "seller" : "Amazon",
+          "stock" : 5
+     }
+]
